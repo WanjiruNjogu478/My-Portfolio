@@ -1,0 +1,34 @@
+/*style for my portfolio*/
+body {
+    scroll-behavior: smooth;
+}
+
+#hero {
+    height: 100vh;
+    background: url('images/WhatsApp Image 2024-10-09 at 03.11.00.jpeg') no-repeat center center;
+    background-size: cover;
+    color: pink;
+}
+
+.hero-content h1 {
+    font-size: 4rem;
+    margin-bottom: 20px;
+}
+
+.hero-content p {
+    font-size: 1.5rem;
+}
+
+section {
+    padding: 50px 0;
+}
+
+#portfolio img {
+    border-radius: 10px;
+}
+
+
+footer {
+    background-color: aqua;
+    padding: 20px 0;
+}
